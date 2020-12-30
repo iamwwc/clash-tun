@@ -17,6 +17,8 @@
   </a>
 </p>
 
+本master代码来自 https://github.com/comzyh/clash 的 tun-dev 分支
+
 ## Features
 
 - Local HTTP/HTTPS/SOCKS server with/without authentication
